@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![Screenshot](Simulator Screen Shot - iPhone X - 2020-06-16 at 16.16.22.png)
+![Screenshot](screenshot.png)
